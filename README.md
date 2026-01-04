@@ -1,14 +1,53 @@
-# machine-coding-interview
+# Machine Coding Interview Practice
 
-Machine Coding
-TODO WITH DEBOUNCE -> https://stackblitz.com/edit/vitejs-vite-rfq4shp2?file=src%2FApp.tsx,README.md
-USERS WITH PAGINATION -> https://stackblitz.com/edit/vitejs-vite-vwyirhtn?file=src%2FApp.tsx,src%2FUserContext.tsx,src%2Fmain.tsx
-CART_WITH_REDUX-> https://stackblitz.com/edit/vitejs-vite-6hyunc5j?file=README.md
+This repository contains multiple practice projects and coding exercises for improving frontend development, state management, and performance optimization skills. Each project focuses on solving a common UI or UX challenge.
 
-PRACTICE 
-1.NESTED COMMENT
-2.FOLDER SYSTEM
-3.MULTI STEP FORM
-4.MULTI SELECT DROPDOWN
-5.BREADCRUMB
-6.USETHROTTLE
+---
+
+## Projects
+
+### 1. TODO with Debounce
+A simple TODO application implementing **debounced input** to optimize performance while typing.
+
+- **Live Demo:** [Stackblitz](https://stackblitz.com/edit/vitejs-vite-rfq4shp2?file=src%2FApp.tsx,README.md)
+- **Key Concepts:**
+  - Debouncing user input
+  - State management using `useState`
+  - Functional components in React
+
+---
+
+### 2. Users with Pagination
+A user list component with **pagination** to efficiently display large datasets.
+
+- **Live Demo:** [Stackblitz](https://stackblitz.com/edit/vitejs-vite-vwyirhtn?file=src%2FApp.tsx,src%2FUserContext.tsx,src%2Fmain.tsx)
+- **Key Concepts:**
+  - Context API for state management
+  - Pagination logic
+  - Fetching and rendering user data
+
+---
+
+### 3. Cart with Redux
+A shopping cart implementation using **Redux Toolkit** for global state management.
+
+- **Live Demo:** [Stackblitz](https://stackblitz.com/edit/vitejs-vite-6hyunc5j?file=README.md)
+- **Key Concepts:**
+  - Redux Toolkit slices
+  - Actions and reducers
+  - Component interaction with Redux store
+
+---
+
+## Practice Exercises
+
+These exercises are meant to strengthen problem-solving and frontend coding skills:
+
+1. **Nested Comment System** – Build a comment system with replies.
+2. **Folder System** – Simulate a file explorer with expandable folders.
+3. **Multi-step Form** – Implement a form spread across multiple steps.
+4. **Multi-select Dropdown** – Create a dropdown allowing multiple selections.
+5. **Breadcrumb Navigation** – Dynamic breadcrumbs for navigation tracking.
+6. **useThrottle Hook** – Custom hook for throttling function calls.
+
+---
