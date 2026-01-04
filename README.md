@@ -39,6 +39,10 @@ A shopping cart implementation using **Redux Toolkit** for global state manageme
 
 ---
 
+### 4. MultiStep Form
+
+- **Live Demo:** [Stackblitz](https://codesandbox.io/p/sandbox/h3zspl?file=%2Fsrc%2FApp.tsx%3A83%2C10-83%2C21)
+
 ## Practice Exercises
 
 These exercises are meant to strengthen problem-solving and frontend coding skills:
