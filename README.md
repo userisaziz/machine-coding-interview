@@ -41,7 +41,7 @@ A shopping cart implementation using **Redux Toolkit** for global state manageme
 
 ### 4. MultiStep Form
 
-- **Live Demo:** [Stackblitz](https://codesandbox.io/p/sandbox/h3zspl?file=%2Fsrc%2FApp.tsx%3A83%2C10-83%2C21)
+- **Live Demo:** [CodeSandbox](https://codesandbox.io/p/sandbox/h3zspl?file=%2Fsrc%2FApp.tsx%3A83%2C10-83%2C21)
 
 ---
 
@@ -56,7 +56,6 @@ These exercises are meant to strengthen problem-solving and frontend coding skil
 1. **Nested Comment System** – Build a comment system with replies.
 2. **Folder System** – Simulate a file explorer with expandable folders.
 3. **Multi-select Dropdown** – Create a dropdown allowing multiple selections.
-4. **Breadcrumb Navigation** – Dynamic breadcrumbs for navigation tracking.
-5. **useThrottle Hook** – Custom hook for throttling function calls.
+4. **useThrottle Hook** – Custom hook for throttling function calls.
 
 ---
