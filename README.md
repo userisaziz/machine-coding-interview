@@ -43,6 +43,12 @@ A shopping cart implementation using **Redux Toolkit** for global state manageme
 
 - **Live Demo:** [Stackblitz](https://codesandbox.io/p/sandbox/h3zspl?file=%2Fsrc%2FApp.tsx%3A83%2C10-83%2C21)
 
+---
+
+### 5. Dynamic BreadCrumb
+
+- **Live Demo:** [CodeSandbox](https://codesandbox.io/p/sandbox/hvpsf6?file=%2Fsrc%2FApp.tsx%3A11%2C1)
+
 ## Practice Exercises
 
 These exercises are meant to strengthen problem-solving and frontend coding skills:
