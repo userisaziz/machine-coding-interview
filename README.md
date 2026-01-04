@@ -49,9 +49,8 @@ These exercises are meant to strengthen problem-solving and frontend coding skil
 
 1. **Nested Comment System** – Build a comment system with replies.
 2. **Folder System** – Simulate a file explorer with expandable folders.
-3. **Multi-step Form** – Implement a form spread across multiple steps.
-4. **Multi-select Dropdown** – Create a dropdown allowing multiple selections.
-5. **Breadcrumb Navigation** – Dynamic breadcrumbs for navigation tracking.
-6. **useThrottle Hook** – Custom hook for throttling function calls.
+3. **Multi-select Dropdown** – Create a dropdown allowing multiple selections.
+4. **Breadcrumb Navigation** – Dynamic breadcrumbs for navigation tracking.
+5. **useThrottle Hook** – Custom hook for throttling function calls.
 
 ---
